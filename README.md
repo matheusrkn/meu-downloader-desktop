@@ -1,6 +1,5 @@
 > ℹ️ **Este projeto é apenas para fins educacionais.** Leia o [Disclaimer](#disclaimer) ao final para mais informações.
 
-
 # 🎵 Mathew Downloader APP (MP3/MP4)
 
 Aplicativo simples e funcional para baixar vídeos do YouTube em diferentes qualidades, com suporte a conversão direta para áudio (MP3), utilizando interface gráfica via Tkinter.
